@@ -1,0 +1,7 @@
+{
+    "tasks": {
+        "start" : "echo start the server",
+        "ios": "",
+        "android": ""
+    }
+}

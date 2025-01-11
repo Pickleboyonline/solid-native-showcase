@@ -1,0 +1,1 @@
+// Basically, all this would do is import the App.tsx and render like a normal app.
